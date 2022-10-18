@@ -19,4 +19,4 @@
     in love with technology
 </div>
 
-![giphy align="center"](https://user-images.githubusercontent.com/114449330/196414865-74815ecd-1703-4f83-b390-436f1e814162.gif)
+![giphy (2)](https://user-images.githubusercontent.com/114449330/196419902-ef4cd0da-59da-43f7-8911-c762a719c5b1.gif)
