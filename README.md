@@ -16,6 +16,4 @@
 <br>
 Apaixonado por tecnologia, e como ela pode afetar no dia a dia.
 
-<div style="display: inline_block"><br/>
-    <iframe src="https://giphy.com/embed/xUA7b9BGCRbVlYnnLq" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/funimation-attack-on-titan-xUA7b9BGCRbVlYnnLq">via GIPHY</a></p>
-</div>
+![giphy](https://user-images.githubusercontent.com/114449330/196414865-74815ecd-1703-4f83-b390-436f1e814162.gif)
