@@ -9,11 +9,14 @@
 
 ## Tecnologias que estou aprendendo a usar
 
-<div style="display: inline_block"><br/>
+<div  align="center" style="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
     <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </div>
 <br>
-Apaixonado por tecnologia, e como ela pode afetar no dia a dia.
 
-![giphy](https://user-images.githubusercontent.com/114449330/196414865-74815ecd-1703-4f83-b390-436f1e814162.gif)
+<div align="center">
+    Apaixonado por tecnologia, e como ela pode afetar no dia a dia.
+</div>
+
+![giphy align="center"](https://user-images.githubusercontent.com/114449330/196414865-74815ecd-1703-4f83-b390-436f1e814162.gif)
