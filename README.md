@@ -18,5 +18,3 @@
 <div align="center">
     in love with technology
 </div>
-
-![giphy (2)](https://user-images.githubusercontent.com/114449330/196419902-ef4cd0da-59da-43f7-8911-c762a719c5b1.gif)
